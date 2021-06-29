@@ -74,7 +74,8 @@ author:
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
 
-
+header:
+  overlay_color: "#333"
 
 footer:
   links:

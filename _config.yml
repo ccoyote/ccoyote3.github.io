@@ -76,7 +76,9 @@ author:
 
 # header:
 #   image: /assets/images/IMG_1128.JPG
-
+header:
+  teaser: /assets/images/beach.jpg
+  
 footer:
   links:
     - label: "Twitter"

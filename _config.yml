@@ -74,8 +74,8 @@ author:
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
 
-header:
-  image: /assets/images/IMG_1128.JPG
+# header:
+#   image: /assets/images/IMG_1128.JPG
 
 footer:
   links:
